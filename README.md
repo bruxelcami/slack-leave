@@ -24,8 +24,8 @@ APScheduler
 Installation
 Clone the Repository
 
-git clone https://github.com/yourusername/leave-management-slack-bot.git
-cd leave-management-slack-bot
+git clone https://github.com/bruxelcami/slack-leave.git
+cd slack-leave
 Install Dependencies
 
 pip install -r requirements.txt
